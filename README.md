@@ -1,5 +1,11 @@
 # Neon Koi Ascending
 
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/sandiawan-kielo-dale/neon-koi-ascending/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/sandiawan-kielo-dale/neon-koi-ascending/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
+Bounty: https://make.fun/bounty/ai-excited-01 — referral: https://make.fun/r/y5hkb35z
+
 Entry for make.fun **"Make the AI judge excited" (ai-excited-01)** — one image
 built to hit the judge with a jolt of energy on first sight.
 
